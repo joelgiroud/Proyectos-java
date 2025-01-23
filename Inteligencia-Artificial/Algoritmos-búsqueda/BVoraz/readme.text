@@ -1,0 +1,7 @@
+El algoritmo de búsqueda voraz es una estrategia que busca una solución óptima a un problema tomando decisiones locales óptimas.
+Se le conoce también como algoritmo greedy, codicioso, goloso, ávido o devorador. 
+El algoritmo voraz funciona de la siguiente manera: 
+
+    Toma la mejor decisión en cada paso local
+    No reconsidera sus decisiones
+    Al juntar todas las decisiones locales, se obtiene la solución global óptima
