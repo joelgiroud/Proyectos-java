@@ -5,3 +5,11 @@ El algoritmo voraz funciona de la siguiente manera:
     Toma la mejor decisión en cada paso local
     No reconsidera sus decisiones
     Al juntar todas las decisiones locales, se obtiene la solución global óptima
+
+Utilidades:
+*    Problema del cambio de monedas: Minimizar el número de monedas necesarias para formar una cantidad.
+*    Algoritmo de Kruskal y Prim: Construcción de un árbol de expansión mínima en grafos.
+*    Programación de actividades: Seleccionar el máximo número de actividades no solapadas.
+*    Problema del viajero con presupuesto restringido: Buscar una solución aceptable sin garantizar la óptima.
+*    Codificación de Huffman: Construcción de códigos de longitud variable óptimos.
+
